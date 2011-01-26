@@ -18,12 +18,12 @@ To install this new glossary format:
 .backPanel .nolink {padding-top:40px;}
 
 3. Add the following line to your lang file under mod/glossary/lang/en/ folder
-$string['displayformatflashcard'] = ‘Flashcard style’;
+$string['displayformatflashcard'] = "Flashcard style";
 
-4. You’re done:)
+4. You're done:)
 
 To talk about Glossary formats, go to:
     http://moodle.org/mod/forum/discuss.php?d=163353
 
 Lei Zhang
-12/01/2010 (MM/DD/YYYY)
+12/01/2010
