@@ -4,7 +4,7 @@ Version 0.1
 
 To install this new glossary format:
 
-1.Unzip the flashcard zip file, and drop the folder to mod/glossary/formats/.
+1.Unzip the flashcard zip file, drop the folder to mod/glossary/formats/ and rename it to flashcard.
 
 2.Modify style.css file under mod/glossary/, add the following css style sheets.
 
@@ -20,10 +20,11 @@ To install this new glossary format:
 3. Add the following line to your lang file under mod/glossary/lang/en/ folder
 $string['displayformatflashcard'] = "Flashcard style";
 
-4. You're done:)
+4. In site administration setting, purge all caches under development to load your new stylesheet.
 
-To talk about Glossary formats, go to:
+5. Create your first new glossary format in flashcard format.
+
+For any question about Glossary format, go to:
     http://moodle.org/mod/forum/discuss.php?d=163353
 
 Lei Zhang
-12/01/2010
